@@ -63,8 +63,7 @@ body{
     height: 500px;
     right: 0;
     padding-top: 150px;
-      
-    background:transparent;
+    background:#E9D5DA;
     font-family:'Montserrat', serif;
     
     
@@ -108,9 +107,9 @@ h1{
 .bg-2 {
     
     display:block;
-    color:#b2b2b2;
+    color:rgb(133, 105, 133);
     font-family: 'Montserrat', serif;
-    background-color:rgb(158, 154, 154);
+    background-color: #827397;
     
 }
 
@@ -169,7 +168,7 @@ h1{
     right:0;
     left:0;
     color: #b2b2b2;
-    background-color: #2b2929;
+    background-color: #4D4C7D;
     font-family: 'Montserrat', serif;
     
 }
@@ -180,12 +179,12 @@ h1{
 /* Contact form style*/
 
 .bg-4 {    
+    background-color: #363062;
     display:block;
     width: 100%;
     text-align: center;
-    color: rgba(254, 97, 72, 1);
     font-family: 'Montserrat', serif;
-    background-color:rgb(255, 255, 255);
+   
     
         
         
@@ -248,7 +247,7 @@ h1{
     bottom:0;
    font-size: 50px;
     color:rgba(254, 97, 72, 1);
-    background-color: rgb(9, 20, 27);
+    background-color: #2a264d;
 }
 
 .copy-right {
